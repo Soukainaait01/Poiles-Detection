@@ -22,7 +22,7 @@ The script performs the following steps:
   - `opencv-python`  
   - `numpy`  
   - `matplotlib`
-  - 
+  
 ## Example Result
 Below is an example of the output generated
 
