@@ -17,7 +17,7 @@ The script performs the following steps:
 8. Shows side-by-side the original image and the annotated image.
 ## Requirements
 
-- Python 3.x  
+- Python 3.12  
 - Required Python libraries:  
   - `opencv-python`  
   - `numpy`  
